@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  width: 100%;
+  font-family: Monaco, sans-serif;
+}
+
+.big {
+  width: 33%;
+  height: 800px;
+  float: left;
+}
+
+.red {
+  background-color: #ff0000;
+}
+
+.green {
+  background-color: #00ff00;
+}
+
+.text-container {
+  padding-top: 30%;
+}
+
+.upper {
+  height: 600px;
+  background-color: #0000ff;
+}
+
+.lower {
+  box-sizing: border-box;
+  height: 200px;
+  background-color: #109233;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 90px;
+}

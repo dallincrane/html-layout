@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  width: 100%;
+}
+
+header {
+  height: 200px;
+  background-color: #333;
+}
+
+.side {
+  width: 15%;
+  height: 800px;
+  background-color: #ccc;
+  float: left;
+}
+
+.middle {
+  width: 70%;
+  float: left;
+  border: 2px dashed red;
+}
+
+.upper {
+  height: 700px;
+  background-color: #00ff00;
+}
+
+.lower {
+  height: 100px;
+  background-color: #0000ff;
+}

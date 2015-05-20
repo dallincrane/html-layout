@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  width: 100%;
+  font-family: Monaco, sans-serif;
+}
+
+.bland {
+  height: 200px;
+}
+
+.logo {
+  height: 140px;
+  width: 140px;
+}
+
+.iron {
+  background-color: #D8D8D8;
+}
+.havelock {
+  background-color: #4E92DF;
+}
+.turq {
+  background-color: #58E2C2;
+}
+.yellgree {
+  background-color: #B9E78B;
+}
+.gorse {
+  background-color: #F5E33B;
+}
